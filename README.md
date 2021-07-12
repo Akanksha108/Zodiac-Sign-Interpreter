@@ -1,2 +1,2 @@
-# zodiac-sign-interpreter
+# Zodiac-Sign-Interpreter
 Created with CodeSandbox
